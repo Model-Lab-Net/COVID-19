@@ -30,7 +30,7 @@ Mobility:
 	Waze				https://raw.githubusercontent.com/ActiveConclusion/COVID19_mobility/master/waze_reports/Waze_Country-Level_Data.csv
 	TomTom				https://github.com/ActiveConclusion/COVID19_mobility/raw/master/tomtom_reports/tomtom_trafic_index.csv
 
-Israel:
+Israel
 	main site				https://data.gov.il/dataset/covid-19
 	cases,tests,death (geo)	https://data.gov.il/dataset/covid-19/resource/d07c0771-01a8-43b2-96cc-c6154e7fa9bd/download/geographic-sum-per-day-ver_00839.csv
 	cases,tests,death (city)	https://data.gov.il/dataset/covid-19/resource/8a21d39d-91e3-40db-aca1-f73f7ab1df69/download/corona_city_table_ver_00247.csv
