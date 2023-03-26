@@ -45,4 +45,7 @@ Israel:
 	vaccination events		https://data.gov.il/api/3/action/datastore_search?resource_id=8a51c65b-f95a-4fb8-bd97-65f47109f41f&limit=50000
 	vaccination status		https://data.gov.il/api/3/action/datastore_search?resource_id=9b623a64-f7df-4d0c-9f57-09bd99a88880&limit=100000
 	Hospitalizations		https://data.gov.il/api/3/action/datastore_search?resource_id=e4bf0ab8-ec88-4f9b-8669-f2cc78273edd&limit=70000
+	Urban built-up area		https://www.cbs.gov.il/he/publications/doclib/2019/hamakomiot1999_2017/p_libud_21.xlsx
+	Urban population		https://www.cbs.gov.il/he/publications/doclib/2019/hamakomiot1999_2017/p_libud_21.xlsx
+	
 
