@@ -1,4 +1,4 @@
-*COVID-19 trajectory analysis*
+*COVID-19 trajectory analysis* 
 
 This project imports all available data for cases, tests, deaths, mobility, hospitalizations, strigency, lockdowns, and more for countries, UK nations and US States.
 
