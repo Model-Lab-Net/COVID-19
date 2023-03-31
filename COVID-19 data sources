@@ -1,14 +1,13 @@
-Country data 
-	cases				https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
-	deaths				https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
-	tests				https://github.com/owid/covid-19-data/raw/master/public/data/testing/covid-testing-all-observations.csv
-	recoveries			https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv
-	deaths				https://github.com/owid/covid-19-data/raw/master/public/data/testing/covid-testing-all-observations.csv
-	vaccination			https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv
-	hopstializtion			https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/hospitalizations/covid-hospitalizations.csv
-	strigerncy index		https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker-legacy/main/legacy_data_202207/OxCGRT_latest.csv
-	population			https://data.worldbank.org/indicator/SP.POP.TOTL
-	built-up area			https://stats.oecd.org/Index.aspx?DataSetCode=BUILT_UP    /     https://data.worldbank.org/indicator/AG.LND.TOTL.UR.K2
+Country Data 
+	cases		(JHU)		https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
+	deaths		(JHU)		https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+	tests		(OWID)		https://github.com/owid/covid-19-data/raw/master/public/data/testing/covid-testing-all-observations.csv
+	recoveries	(JHU)		https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv
+	vaccination	(OWID)		https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv
+	hopstializtion	(OWID)		https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/hospitalizations/covid-hospitalizations.csv
+	strigerncy 	(Oxford)	https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker-legacy/main/legacy_data_202207/OxCGRT_latest.csv
+	population	(WB)		https://data.worldbank.org/indicator/SP.POP.TOTL
+	built-up area	(OECD)		https://stats.oecd.org/Index.aspx?DataSetCode=BUILT_UP    /     https://data.worldbank.org/indicator/AG.LND.TOTL.UR.K2
 
 UK
 	cases, deaths, vax		https://api.coronavirus.data.gov.uk/v2/data?areaType=nation&metric=cumCasesBySpecimenDate&metric=cumDeaths28DaysByDeathDate&metric=cumPCRTestsByPublishDate&format=csv
@@ -24,7 +23,7 @@ US
 	population			https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html
 	built-up area			https://www.newgeography.com/content/005187-america-s-most-urban-states
 
-Mobility:
+Mobility
 	Apple				https://covid19.apple.com/mobility
 	Google				https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv
 	Waze				https://raw.githubusercontent.com/ActiveConclusion/COVID19_mobility/master/waze_reports/Waze_Country-Level_Data.csv
@@ -32,12 +31,12 @@ Mobility:
 
 Israel
 	main site			https://data.gov.il/dataset/covid-19
-	cases,tests,death (geo)	https://data.gov.il/dataset/covid-19/resource/d07c0771-01a8-43b2-96cc-c6154e7fa9bd/download/geographic-sum-per-day-ver_00839.csv
+	cases,tests,death (geo)		https://data.gov.il/dataset/covid-19/resource/d07c0771-01a8-43b2-96cc-c6154e7fa9bd/download/geographic-sum-per-day-ver_00839.csv
 	cases,tests,death (city)	https://data.gov.il/dataset/covid-19/resource/8a21d39d-91e3-40db-aca1-f73f7ab1df69/download/corona_city_table_ver_00247.csv
 	vaccination (city)		https://data.gov.il/dataset/covid-19/resource/12c9045c-1bf4-478a-a9e1-1e876cc2e182/download/vaccinated_city_table_ver_00468.csv
-	confirmed cases (table)	https://data.gov.il/dataset/covid-19/resource/bd7b8fa9-7120-4e8d-933f-a1449dae8dad/download/positive-cases-111.csv
+	confirmed cases (table)		https://data.gov.il/dataset/covid-19/resource/bd7b8fa9-7120-4e8d-933f-a1449dae8dad/download/positive-cases-111.csv
 	Tests
-		2020s			https://data.gov.il/dataset/covid-19/resource/a9588029-8dd6-4c6f-b4ff-e8ca6413642f/download/corona_lab_tests_2020.csv
+		2020			https://data.gov.il/dataset/covid-19/resource/a9588029-8dd6-4c6f-b4ff-e8ca6413642f/download/corona_lab_tests_2020.csv
 		2021 1st-half		https://data.gov.il/dataset/covid-19/resource/bf65a826-2440-43a3-b6a6-92bb45fe061f/download/corona_lab_tests_2021-01-01__2021-07-31.csv
 		2021 2nd-half		https://data.gov.il/dataset/covid-19/resource/7ec35cbe-9ea9-4402-9cd5-90e5dc60f343/download/corona_lab_tests_2021-08-01_2021-12-31.csv
 		2022			https://data.gov.il/dataset/covid-19/resource/dcf999c1-d394-4b57-a5e0-9d014a62e046/download/corona_lab_tests_2022-08-03.csv
