@@ -20,7 +20,7 @@ US
 	deaths				https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv
 	tests				https://raw.githubusercontent.com/govex/COVID-19/master/data_tables/testing_data/county_time_series_covid19_US.csv
 	v2accination			https://data.cdc.gov/api/views/8xkx-amqh/rows.csv?accessType=DOWNLOAD&bom=true&format=true
-	strigency index		https://raw.githubusercontent.com/OxCGRT/USA-covid-policy/master/data/OxCGRT_US_latest.csv
+	strigency index			https://raw.githubusercontent.com/OxCGRT/USA-covid-policy/master/data/OxCGRT_US_latest.csv
 	population			https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html
 	built-up area			https://www.newgeography.com/content/005187-america-s-most-urban-states
 
