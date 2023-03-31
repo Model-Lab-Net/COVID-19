@@ -1,0 +1,51 @@
+Country data 
+	cases				https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
+	deaths				https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+	tests				https://github.com/owid/covid-19-data/raw/master/public/data/testing/covid-testing-all-observations.csv
+	recoveries			https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv
+	deaths				https://github.com/owid/covid-19-data/raw/master/public/data/testing/covid-testing-all-observations.csv
+	vaccination			https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv
+	hopstializtion			https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/hospitalizations/covid-hospitalizations.csv
+	strigerncy index		https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker-legacy/main/legacy_data_202207/OxCGRT_latest.csv
+	population			https://data.worldbank.org/indicator/SP.POP.TOTL
+	built-up area			https://stats.oecd.org/Index.aspx?DataSetCode=BUILT_UP    /     https://data.worldbank.org/indicator/AG.LND.TOTL.UR.K2
+
+UK
+	cases, deaths, vax		https://api.coronavirus.data.gov.uk/v2/data?areaType=nation&metric=cumCasesBySpecimenDate&metric=cumDeaths28DaysByDeathDate&metric=cumPCRTestsByPublishDate&format=csv
+	population			https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/mid2021	
+	built-up area			https://www.data.gov.uk/dataset/15e3be7f-66ed-416c-b0f2-241e87668642/built-up-areas-december-2011-boundaries-v2
+
+US
+	cases				https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv
+	deaths				https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv
+	tests				https://raw.githubusercontent.com/govex/COVID-19/master/data_tables/testing_data/county_time_series_covid19_US.csv
+	v2accination			https://data.cdc.gov/api/views/8xkx-amqh/rows.csv?accessType=DOWNLOAD&bom=true&format=true
+	strigency index			https://raw.githubusercontent.com/OxCGRT/USA-covid-policy/master/data/OxCGRT_US_latest.csv
+	population			https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html
+	built-up area			https://www.newgeography.com/content/005187-america-s-most-urban-states
+
+Mobility:
+	Apple				https://covid19.apple.com/mobility
+	Google				https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv
+	Waze				https://raw.githubusercontent.com/ActiveConclusion/COVID19_mobility/master/waze_reports/Waze_Country-Level_Data.csv
+	TomTom				https://github.com/ActiveConclusion/COVID19_mobility/raw/master/tomtom_reports/tomtom_trafic_index.csv
+
+Israel
+	main site			https://data.gov.il/dataset/covid-19
+	cases,tests,death (geo)	https://data.gov.il/dataset/covid-19/resource/d07c0771-01a8-43b2-96cc-c6154e7fa9bd/download/geographic-sum-per-day-ver_00839.csv
+	cases,tests,death (city)	https://data.gov.il/dataset/covid-19/resource/8a21d39d-91e3-40db-aca1-f73f7ab1df69/download/corona_city_table_ver_00247.csv
+	vaccination (city)		https://data.gov.il/dataset/covid-19/resource/12c9045c-1bf4-478a-a9e1-1e876cc2e182/download/vaccinated_city_table_ver_00468.csv
+	confirmed cases (table)	https://data.gov.il/dataset/covid-19/resource/bd7b8fa9-7120-4e8d-933f-a1449dae8dad/download/positive-cases-111.csv
+	Tests
+		2020s			https://data.gov.il/dataset/covid-19/resource/a9588029-8dd6-4c6f-b4ff-e8ca6413642f/download/corona_lab_tests_2020.csv
+		2021 1st-half		https://data.gov.il/dataset/covid-19/resource/bf65a826-2440-43a3-b6a6-92bb45fe061f/download/corona_lab_tests_2021-01-01__2021-07-31.csv
+		2021 2nd-half		https://data.gov.il/dataset/covid-19/resource/7ec35cbe-9ea9-4402-9cd5-90e5dc60f343/download/corona_lab_tests_2021-08-01_2021-12-31.csv
+		2022			https://data.gov.il/dataset/covid-19/resource/dcf999c1-d394-4b57-a5e0-9d014a62e046/download/corona_lab_tests_2022-08-03.csv
+	vaccination doses		https://data.gov.il/api/3/action/datastore_search?resource_id=57410611-936c-49a6-ac3c-838171055b1f&limit=50000
+	vaccination events		https://data.gov.il/api/3/action/datastore_search?resource_id=8a51c65b-f95a-4fb8-bd97-65f47109f41f&limit=50000
+	vaccination status		https://data.gov.il/api/3/action/datastore_search?resource_id=9b623a64-f7df-4d0c-9f57-09bd99a88880&limit=100000
+	Hospitalizations		https://data.gov.il/api/3/action/datastore_search?resource_id=e4bf0ab8-ec88-4f9b-8669-f2cc78273edd&limit=70000
+	Urban built-up area		https://www.cbs.gov.il/he/publications/doclib/2019/hamakomiot1999_2017/p_libud_21.xlsx
+	Urban population		https://www.cbs.gov.il/he/publications/doclib/2019/hamakomiot1999_2017/p_libud_21.xlsx
+	
+ 
